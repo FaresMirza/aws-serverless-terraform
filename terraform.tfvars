@@ -1,0 +1,6 @@
+aws_region = "me-south-1"
+dynamodb_table_name = "users"
+dynamodb_hash_key = "user_id"
+lambda_function_name = "lambda"
+api_gateway_name = "apigw"
+api_gateway_stage_name = "api"
